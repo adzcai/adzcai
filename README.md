@@ -9,6 +9,7 @@ Some (programming) topics I'm currently interested in:
 - Functional programming (through Haskell)
 - Systems-level programming (through Rust)
 - Cybersecurity
+- WebAssembly
 
 Some (other) topics I'm currently interested in:
 - The Universal Decimal Classification System
@@ -21,6 +22,12 @@ Some (other) topics I'm currently interested in:
 I'm currently the Co-President of Math Attack Society, a Canadian, student-led, non-profit organization that aims to break down barriers in the world of math through team contests and impactful proactive mentoring. Find out more at <http://mathattacksociety.org/>!
 
 Last summer, I also had the chance to research at the University of Alberta (Faculty of Computing Science). I co-authored "A tardiness-augmented approximation scheme for rejection-allowed multiprocessor rescheduling", which is currently under review at [Computers and Industrial Engineering](https://www.computers-and-ie.org/).
+
+### Some technologies I work with
+
+- Modern JavaScript: TypeScript, GraphQL, React. Opinion: Writing it is fun but I think it's reached a threshold of abstraction we don't want to push.
+- C++ for algorithms and such.
+- Python for data science and machine learning.
 
 ### Currently reading
 
