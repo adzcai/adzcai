@@ -13,6 +13,8 @@ Some (programming) topics I'm currently interested in:
 Some (other) topics I'm currently interested in:
 - The Universal Decimal Classification System
 - Learning German
+- Journaling
+- Working on a few piano pieces (Chopin, Liszt, and Beethoven)
 
 ### What I do
 
