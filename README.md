@@ -54,4 +54,4 @@ Like these buttons? They're from [shields.io](https://shields.io/)! I am not aff
 ### Tools
 
 ![Docker](https://img.shields.io/badge/docker-experienced-4896E6?logo=docker&style=for-the-badge)
-![![Git](https://img.shields.io/badge/git-xkcd%201597-F05133?logo=git&style=for-the-badge)](https://xkcd.com/1597/)
+[![Git](https://img.shields.io/badge/git-xkcd%201597-F05133?logo=git&style=for-the-badge)](https://xkcd.com/1597/)
