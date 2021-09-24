@@ -11,6 +11,7 @@
 ![I love my cat](https://img.shields.io/badge/i%20love-my%20cat-E535AB?style=for-the-badge)
 ![Visual Studio Code user](https://img.shields.io/badge/vs%20code-user-0098FF?logo=visualstudiocode&style=for-the-badge)
 ![DuckDuckGo user](https://img.shields.io/badge/duckduckgo-user-DE5833?logo=duckduckgo&style=for-the-badge)
+![Linguistics nerd](https://img.shields.io/badge/linguistics-nerd-9B7EDE?style=for-the-badge)
 
 Hey there! I'm Alex, a guy from Alberta, Canada who enjoys playing with code, music, and RPGs. I enjoy studying linguistics and constructing fictional languages in my spare time. Currently studying Computer Science at Harvard University in the Class of 2025. Find out more on my [LinkedIn](https://www.linkedin.com/in/alexdzcai/).
 
