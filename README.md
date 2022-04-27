@@ -1,31 +1,24 @@
-<h1>
-  <a href="https://github.com/pi-guy-in-the-sky">
-    <img
-      width="240"
-      alt="Alex Cai"
-      src="https://img.shields.io/badge/alex-cai-aqua?style=for-the-badge&link=https://github.com/pi-guy-in-the-sky&logo=devdotto&logoColor=aqua"
-    />
-  </a>
-</h1>
-
 ![I love my cat](https://img.shields.io/badge/i%20love-my%20cat-E535AB?style=for-the-badge)
 ![Visual Studio Code user](https://img.shields.io/badge/vs%20code-user-0098FF?logo=visualstudiocode&style=for-the-badge)
 ![DuckDuckGo user](https://img.shields.io/badge/duckduckgo-user-DE5833?logo=duckduckgo&style=for-the-badge)
-![Linguistics nerd](https://img.shields.io/badge/linguistics-nerd-9B7EDE?style=for-the-badge)
 
-Hey there! I'm Alex, a student from Alberta, Canada who enjoys playing with code, music, and RPGs. I enjoy studying linguistics and constructing fictional languages in my spare time. Currently studying Computer Science at Harvard University in the Class of 2025. Find out more on my [LinkedIn](https://www.linkedin.com/in/alexdzcai/).
+Hey there! I'm Alex, a student from Alberta, Canada who enjoys playing with code, music, and RPGs. Currently studying Computer Science at Harvard University in the Class of 2025. Find out more on my [LinkedIn](https://www.linkedin.com/in/alexdzcai/).
 
-Like these buttons? They're from [shields.io](https://shields.io/)! I am not affiliated with any of these organizations except as a user of their software.
+## Some topics that interest me
 
-## Topics that interest me
-
-- Distributed computing
-- Artificial intelligence and machine learning, especially AI safety
-- Functional programming
-- Systems-level programming
-- Cybersecurity
+- AI alignment, machine learning, reinforcement learning
+- Systems programming, distributed computing, cybersecurity
+- Moral philosophy, [effective altruism](https://www.effectivealtruism.org/), anthropics, logic, rationality, functional programming
+- Linguistics, cognitive science
 
 ## Some technologies I work with
+
+### Data Science, AI, ML
+
+![Python](https://img.shields.io/badge/python-experienced-ffd43b?logo=python&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/pytorch-experienced-ee4c2c?logo=pytorch&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/mongodb-decent-10aa50?logo=mongodb&style=for-the-badge)
+![Keras](https://img.shields.io/badge/keras-decent-D00000?logo=keras&style=for-the-badge)
 
 ### Webdev
 
@@ -41,22 +34,17 @@ Like these buttons? They're from [shields.io](https://shields.io/)! I am not aff
 
 Some notable projects:
 
-- [HPAIR Delegate Portal](https://my.hpair.org/) - for the Harvard College Project for Asian and International Relations with over 5000 users
-- [Plan Crimson](https://plancrimson.xyz/) - course planning for Harvard undergraduates
+- [sstable-to-arrow](https://github.com/datastax/sstable-to-arrow) - a tool to enable GPU-accelerated analytic queries on Apache Cassandra ([blog](https://developer.nvidia.com/blog/analyzing-cassandra-data-using-gpus-part-1/) [posts](https://developer.nvidia.com/blog/analyzing-cassandra-data-using-gpus-part-2/))
+- [HPAIR Delegate Portal](https://my.hpair.org/) - for the [Harvard College Project for Asian and International Relations](https://www.hpair.org/)
+- [Plan Crimson](https://plancrimson.com/) - course planner for Harvard undergraduates
 - [ACCP Canada](https://www.accpcanada.ca/) - the Association of Chinese Canadian Professors at the University of Alberta
-- [Atomic Models](https://pi-guy-in-the-sky.github.io/atomic-models/) - a high school physics project with 3D visualizations
+- [Atomic Models](https://adzcai.github.io/atomic-models/) - a high school physics project with 3D visualizations
 
 ### Systems
 
 ![C++20](https://img.shields.io/badge/C++20-experienced-00599C?logo=cplusplus&style=for-the-badge)
 ![Boost](https://img.shields.io/badge/boost-decent-00599C?style=for-the-badge)
 ![Rust](https://img.shields.io/badge/rust-learning-black?logo=rust&style=for-the-badge)
-
-### Data Science and Databases
-
-![Python](https://img.shields.io/badge/python-experienced-ffd43b?logo=python&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-decent-10aa50?logo=mongodb&style=for-the-badge)
-![Keras](https://img.shields.io/badge/keras-decent-D00000?logo=keras&style=for-the-badge)
 
 ### Tools
 
