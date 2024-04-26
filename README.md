@@ -36,7 +36,7 @@ Some notable projects:
 
 - [sstable-to-arrow](https://github.com/datastax/sstable-to-arrow) - a tool to enable GPU-accelerated analytic queries on Apache Cassandra ([blog](https://developer.nvidia.com/blog/analyzing-cassandra-data-using-gpus-part-1/) [posts](https://developer.nvidia.com/blog/analyzing-cassandra-data-using-gpus-part-2/))
 - [HPAIR Delegate Portal](https://my.hpair.org/) - for the [Harvard College Project for Asian and International Relations](https://www.hpair.org/)
-- [Plan Crimson](https://plancrimson.com/) - course planner for Harvard undergraduates
+- [PlanCrimson](https://plancrimson.io/) - course planner for Harvard undergraduates
 - [ACCP Canada](https://www.accpcanada.ca/) - the Association of Chinese Canadian Professors at the University of Alberta
 - [Atomic Models](https://adzcai.github.io/atomic-models/) - a high school physics project with 3D visualizations
 
